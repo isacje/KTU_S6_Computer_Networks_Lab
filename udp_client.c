@@ -44,3 +44,12 @@ int main()
 	return 0;
 }
 
+/*
+OUTPUT
+
+stud@debian:~/ije/udp$ ./udps
+
+Msg from client : Hello
+Acknowledgement sent to Client
+
+*/
