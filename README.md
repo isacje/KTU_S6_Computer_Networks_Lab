@@ -1,1 +1,1 @@
-# KTU S6 Computer Networks
+# KTU S6 Computer Networks Lab
