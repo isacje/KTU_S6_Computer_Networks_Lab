@@ -47,9 +47,10 @@ int main()
 /*
 OUTPUT
 
-stud@debian:~/ije/udp$ ./udps
+stud@debian:~/ije/udp$ ./udpc
 
-Msg from client : Hello
-Acknowledgement sent to Client
+enter data to send : Hello 
+Data sent to the Server.
+Response from server : Server Acknowledged
 
 */
